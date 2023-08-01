@@ -1,2 +1,2 @@
 # QQ-account-theft-tool
-A QQ theft tool suitable for social engineering.
+一个适用于社会工程学的QQ盗号工具，没有什么技术含量，就是让各位师傅方便一点，不用造轮子了
